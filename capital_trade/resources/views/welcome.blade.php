@@ -26,7 +26,7 @@
               <i class="fa-brands fa-2x fa-instagram"></i>
             </a>
           </div>
-          <a href="/" class="explore-btn">Explore our Packages</a>
+          <a href="{{ route('register') }}" class="explore-btn">Get Started Now</a>
         </div>
       </div>
       <div class="cryptohopper-web-widget" data-id="1" data-table_style="dark" data-realtime="on" data-table_length="6"></div>
